@@ -5,6 +5,8 @@ import 'package:getx_nav/pages/home.dart';
 import 'package:getx_nav/pages/second.dart';
 import 'package:getx_nav/pages/third.dart';
 
+//test
+
 void main() {
   runApp(GetMaterialApp(
     debugShowCheckedModeBanner: false,
